@@ -1,4 +1,3 @@
-// README.md
 # Bitespeed Identity Reconciliation Service
 
 A Node.js TypeScript service that provides identity reconciliation for customers across multiple purchases using different contact information.
