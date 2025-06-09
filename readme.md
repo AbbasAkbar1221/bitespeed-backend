@@ -147,7 +147,7 @@ curl -X POST https://your-deployed-url.com/identify \
 
 ## Hosted Endpoint
 
-🚀 **Live API Endpoint:** `https://your-app-name.render.com/identify`
+🚀 **Live API Endpoint:** `https://bitespeed-backend-tz9e.onrender.com`
 
 ## License
 
